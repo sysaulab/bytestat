@@ -1,0 +1,15 @@
+[package]
+name = "bytestat"
+version = "0.0.1"
+license = "AGPL-3.0-only"
+edition = "2018"
+
+authors = ["Sylvain_Saucier", "SYSAU_LAB"]
+
+description = "Randomness analyzer."
+keywords = ["randomness", "statistics"]
+categories = ["parsing", "mathematics", "science"]
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+libbytestat = "*"
