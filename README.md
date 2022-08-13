@@ -1,0 +1,2 @@
+# bytestat
+Randomness analyzer
